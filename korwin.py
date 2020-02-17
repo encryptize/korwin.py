@@ -152,7 +152,7 @@ korwin6 = [
     "i ja o tym mówię od trzydziestu pięciu lat.",
     "dlatego Unię Europejską należy zniszczyć.",
     "co w normalnym kraju nie byłoby możliwe.",
-    "dlatego w następnych wyoborach zdobędziemy co najmniej 20%."
+    "dlatego w następnych wyborach zdobędziemy co najmniej 20%.",
     "co ma zresztą tyle samo sensu, co zawody w szachach dla debili.",
     "co zostało dokładnie zaplanowane w Magdalence przez śp. generała Kiszczaka.",
     "i trzeba być idiotą, żeby ten system popierać.",
